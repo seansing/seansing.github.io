@@ -228,6 +228,7 @@ footer {
   .prequel-right {
     width: 100%;
     display: flex;
+    flex-direction: column;
   }
   #seanlofi {
     margin: 0 auto;

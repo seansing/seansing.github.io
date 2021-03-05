@@ -76,7 +76,7 @@ h3 {
   display: inline;
 }
 .textCycle span {
-  animation: topToBottom 7.5s linear infinite;
+  animation: topToBottom 9s linear infinite;
   opacity: 0;
   overflow: hidden;
   position: absolute;

@@ -76,7 +76,7 @@ h3 {
   display: inline;
 }
 .textCycle span {
-  animation: topToBottom 9s linear infinite;
+  animation: topToBottom 6s linear infinite;
   opacity: 0;
   overflow: hidden;
   position: absolute;
@@ -93,9 +93,6 @@ h3 {
 }
 .textCycle span:nth-child(5) {
   animation-delay: 6s;
-}
-.textCycle span:nth-child(6) {
-  animation-delay: 7.5s;
 }
 @keyframes topToBottom {
   0% {

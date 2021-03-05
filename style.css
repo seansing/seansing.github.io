@@ -95,7 +95,7 @@ h3 {
   animation-delay: 6s;
 }
 .textCycle span:nth-child(6) {
-  animation-delay: 6s;
+  animation-delay: 7.5s;
 }
 @keyframes topToBottom {
   0% {

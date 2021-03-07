@@ -9,7 +9,7 @@ html {
 }
 body {
   font-family: "Cabin", sans-serif;
-  background-color: white;
+  background-color: #e8e7e6;
   /* background-image: url(https://i.ibb.co/t36MRyq/pipes.png); */
 }
 #logo {
@@ -17,14 +17,14 @@ body {
   padding-left: 10px;
   padding-top: 5px;
   margin-left: 27px;
-  color: white;
+  color: #e8e7e6;
   background-color: black;
   padding-right: 10px;
 }
 #navbar {
   height: 50px;
   width: 100%;
-  background-color: white;
+  background-color: #e8e7e6;
   display: flex;
   justify-content: space-between;
   position: fixed;
@@ -123,7 +123,7 @@ h3 {
 }
 
 #prequel {
-  background-color: white;
+  background-color: #e8e7e6;
   padding-top: 50px;
   padding-bottom: 60px;
 }
@@ -161,8 +161,11 @@ h3 {
 }
 #projects h4 {
   text-align: center;
-  padding-bottom: 20px;
   font-size: 20px;
+}
+#projects h5 {
+  text-align: center;
+  padding-bottom: 20px;
 }
 #projects img {
   display: block;
@@ -194,7 +197,7 @@ h3 {
   grid-column: 3;
 }
 .profileWrapper {
-  background-color: white;
+  background-color: #e8e7e6;
   padding-top: 50px;
   padding-bottom: 60px;
 }

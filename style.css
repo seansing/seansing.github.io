@@ -297,3 +297,29 @@ footer {
     font-size: 50px;
   }
 }
+
+#publicationLogo {
+    height: 25px;
+    margin-right: 10px;
+}
+li {
+    list-style: none;
+
+    font-family: "Cabin", sans-serif;
+}
+li a {
+    text-decoration: none;
+    font-size: 20px;
+
+    font-family: "Cabin", sans-serif;
+    display: flex;
+    justify-items: center;
+} 
+
+li a:hover {
+    text-decoration: underline;
+}
+
+.publicationList {
+    margin: 20px;
+}
